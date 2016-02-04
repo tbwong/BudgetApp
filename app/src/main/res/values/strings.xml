@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BudgetApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="budget_page">Budget</string>
+    <string name="expense_page">Expenses</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_budget">BudgetActivity</string>
+    <string name="title_activity_expenses">ExpensesActivity</string>
+    <string name="title_activity_budget_entry">BudgetEntryActivity</string>
+    <string name="title_activity_expenses_entry">ExpensesEntryActivity</string>
+    <string name="title_activity_payments">PaymentsActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_payments_entry">PaymentsEntryActivity</string>
+    <string name="title_activity_payments_deposit">PaymentsDepositActivity</string>
+</resources>
